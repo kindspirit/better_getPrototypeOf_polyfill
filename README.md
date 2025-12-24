@@ -1,0 +1,1 @@
+# better_getPrototypeOf_polyfill
