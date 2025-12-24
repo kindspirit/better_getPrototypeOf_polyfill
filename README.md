@@ -1,1 +1,1 @@
-# better_getPrototypeOf_polyfill
+getPrototypeOf-IE-polyfill.min.js is a polyfill for Internet Explorer 5 and up and is ignored by other browsers. getPrototypeOf-polyfill.min.js is the polyfill that works in both IE and other browsers as well such as Opera 10 and below. This is a more robust polyfill than the average getPrototypeOf polyfill that only makes use of `__proto__` or the `constructor` property.
